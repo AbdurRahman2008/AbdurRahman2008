@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @peshawarboard
+- 👋 Hi, I’m AB
+- 
 - 
 - 👀 I’m interested in developing an AI chatbot
 - 🌱 I’m currently learning AI and chatbot development
